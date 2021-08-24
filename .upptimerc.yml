@@ -8,6 +8,8 @@ sites:
     url: https://en.wickepedia.org
   - name: Wiki Apex
     url: https://wickepedia.org
+  - name: Short URL
+    url: https://wickepedia.org/r/3
   - name: REST API
     url: https://de.wickepedia.org/rest.php/v1/page/Main_Page
     method: GET
