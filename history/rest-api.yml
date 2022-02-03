@@ -1,7 +1,7 @@
 url: https://de.wickepedia.org/rest.php/v1/page/Main_Page
-status: up
-code: 200
-responseTime: 702
-lastUpdated: 2022-02-03T21:08:59.461Z
+status: down
+code: 521
+responseTime: 413
+lastUpdated: 2022-02-03T22:09:41.842Z
 startTime: Tue Aug 24 2021 21:30:22 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
