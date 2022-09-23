@@ -5,18 +5,19 @@
     "icon": "https://favicons.githubusercontent.com/de.wickepedia.org",
     "slug": "wiki-de",
     "status": "down",
-    "uptime": "40.45%",
+    "uptime": "40.35%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "35.88%",
-    "time": 630,
-    "timeDay": 183,
-    "timeWeek": 207,
+    "uptimeYear": "35.61%",
+    "time": 628,
+    "timeDay": 158,
+    "timeWeek": 174,
     "timeMonth": 189,
-    "timeYear": 623,
+    "timeYear": 620,
     "dailyMinutesDown": {
-      "2022-09-22": 126,
+      "2022-09-23": 132,
+      "2022-09-22": 1440,
       "2022-09-21": 1440,
       "2022-09-20": 1440,
       "2022-09-19": 1440,
@@ -260,8 +261,7 @@
       "2021-10-20": 1440,
       "2021-10-19": 380,
       "2021-10-18": 238,
-      "2021-10-08": 18,
-      "2021-09-23": 22
+      "2021-10-08": 18
     }
   },
   {
@@ -270,18 +270,19 @@
     "icon": "https://favicons.githubusercontent.com/en.wickepedia.org",
     "slug": "wiki-en",
     "status": "down",
-    "uptime": "40.45%",
+    "uptime": "40.35%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "35.87%",
-    "time": 565,
-    "timeDay": 201,
+    "uptimeYear": "35.60%",
+    "time": 563,
+    "timeDay": 146,
     "timeWeek": 170,
     "timeMonth": 164,
-    "timeYear": 557,
+    "timeYear": 555,
     "dailyMinutesDown": {
-      "2022-09-22": 128,
+      "2022-09-23": 133,
+      "2022-09-22": 1440,
       "2022-09-21": 1440,
       "2022-09-20": 1440,
       "2022-09-19": 1440,
@@ -525,8 +526,7 @@
       "2021-10-20": 1440,
       "2021-10-19": 380,
       "2021-10-18": 238,
-      "2021-10-08": 18,
-      "2021-09-23": 22
+      "2021-10-08": 18
     }
   },
   {
@@ -535,18 +535,19 @@
     "icon": "https://favicons.githubusercontent.com/wickepedia.org",
     "slug": "wiki-apex",
     "status": "down",
-    "uptime": "40.46%",
+    "uptime": "40.36%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "35.88%",
-    "time": 589,
-    "timeDay": 189,
+    "uptimeYear": "35.61%",
+    "time": 587,
+    "timeDay": 153,
     "timeWeek": 163,
-    "timeMonth": 158,
-    "timeYear": 582,
+    "timeMonth": 159,
+    "timeYear": 580,
     "dailyMinutesDown": {
-      "2022-09-22": 129,
+      "2022-09-23": 134,
+      "2022-09-22": 1440,
       "2022-09-21": 1440,
       "2022-09-20": 1440,
       "2022-09-19": 1440,
@@ -789,8 +790,7 @@
       "2021-10-20": 1440,
       "2021-10-19": 380,
       "2021-10-18": 238,
-      "2021-10-08": 19,
-      "2021-09-23": 22
+      "2021-10-08": 19
     }
   },
   {
@@ -799,18 +799,19 @@
     "icon": "https://favicons.githubusercontent.com/wickepedia.org",
     "slug": "short-url",
     "status": "down",
-    "uptime": "40.44%",
+    "uptime": "40.34%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "35.86%",
-    "time": 388,
-    "timeDay": 20,
+    "uptimeYear": "35.58%",
+    "time": 386,
+    "timeDay": 17,
     "timeWeek": 16,
     "timeMonth": 18,
-    "timeYear": 381,
+    "timeYear": 379,
     "dailyMinutesDown": {
-      "2022-09-22": 130,
+      "2022-09-23": 135,
+      "2022-09-22": 1440,
       "2022-09-21": 1440,
       "2022-09-20": 1440,
       "2022-09-19": 1440,
@@ -1055,8 +1056,7 @@
       "2021-10-20": 1440,
       "2021-10-19": 379,
       "2021-10-18": 238,
-      "2021-10-08": 19,
-      "2021-09-23": 22
+      "2021-10-08": 19
     }
   },
   {
@@ -1065,18 +1065,19 @@
     "icon": "https://favicons.githubusercontent.com/de.wickepedia.org",
     "slug": "rest-api",
     "status": "down",
-    "uptime": "40.47%",
+    "uptime": "40.37%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "35.88%",
-    "time": 104,
-    "timeDay": 23,
+    "uptimeYear": "35.61%",
+    "time": 103,
+    "timeDay": 18,
     "timeWeek": 18,
     "timeMonth": 18,
     "timeYear": 102,
     "dailyMinutesDown": {
-      "2022-09-22": 131,
+      "2022-09-23": 136,
+      "2022-09-22": 1440,
       "2022-09-21": 1440,
       "2022-09-20": 1440,
       "2022-09-19": 1440,
@@ -1319,8 +1320,7 @@
       "2021-10-20": 1440,
       "2021-10-19": 379,
       "2021-10-18": 238,
-      "2021-10-08": 19,
-      "2021-09-23": 22
+      "2021-10-08": 19
     }
   },
   {
@@ -1329,18 +1329,19 @@
     "icon": "https://favicons.githubusercontent.com/de.wickepedia.org",
     "slug": "parsoid",
     "status": "down",
-    "uptime": "38.95%",
+    "uptime": "38.85%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "34.25%",
-    "time": 277,
-    "timeDay": 23,
+    "uptimeYear": "33.97%",
+    "time": 273,
+    "timeDay": 16,
     "timeWeek": 17,
     "timeMonth": 17,
-    "timeYear": 268,
+    "timeYear": 266,
     "dailyMinutesDown": {
-      "2022-09-22": 132,
+      "2022-09-23": 137,
+      "2022-09-22": 1440,
       "2022-09-21": 1440,
       "2022-09-20": 1440,
       "2022-09-19": 1440,
@@ -1587,8 +1588,7 @@
       "2021-10-19": 566,
       "2021-10-18": 238,
       "2021-10-08": 19,
-      "2021-09-24": 1060,
-      "2021-09-23": 851
+      "2021-09-24": 1060
     }
   }
 ]
