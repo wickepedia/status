@@ -1,7 +1,7 @@
 url: https://de.wickepedia.org/api.php?action=visualeditor&format=json&paction=parse&page=Main_Page
 status: down
 code: 403
-responseTime: 15
-lastUpdated: 2024-08-09T16:13:41.527Z
+responseTime: 20
+lastUpdated: 2024-08-09T17:10:55.620Z
 startTime: 2021-08-24T21:30:23.000Z
 generator: Upptime <https://github.com/upptime/upptime>
