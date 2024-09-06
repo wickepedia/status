@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/de.wickepedia.org.ico",
     "slug": "wiki-de",
     "status": "up",
-    "uptime": "14.53%",
+    "uptime": "14.61%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "26.04%",
-    "uptimeMonth": "4.09%",
-    "uptimeYear": "0.23%",
-    "time": 178,
-    "timeDay": 1216,
-    "timeWeek": 438,
-    "timeMonth": 248,
-    "timeYear": 178,
+    "uptimeWeek": "40.33%",
+    "uptimeMonth": "7.37%",
+    "uptimeYear": "0.50%",
+    "time": 180,
+    "timeDay": 1145,
+    "timeWeek": 573,
+    "timeMonth": 279,
+    "timeYear": 181,
     "dailyMinutesDown": {
       "2024-09-03": 333,
       "2024-09-02": 1440,
@@ -377,8 +377,7 @@
       "2023-09-11": 1440,
       "2023-09-10": 1440,
       "2023-09-09": 1440,
-      "2023-09-08": 1440,
-      "2023-09-07": 1440
+      "2023-09-08": 1440
     }
   },
   {
@@ -387,16 +386,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/en.wickepedia.org.ico",
     "slug": "wiki-en",
     "status": "up",
-    "uptime": "14.53%",
+    "uptime": "14.61%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "26.05%",
-    "uptimeMonth": "4.09%",
-    "uptimeYear": "0.23%",
-    "time": 165,
-    "timeDay": 952,
-    "timeWeek": 388,
-    "timeMonth": 230,
-    "timeYear": 165,
+    "uptimeWeek": "40.34%",
+    "uptimeMonth": "7.38%",
+    "uptimeYear": "0.50%",
+    "time": 168,
+    "timeDay": 1081,
+    "timeWeek": 515,
+    "timeMonth": 259,
+    "timeYear": 168,
     "dailyMinutesDown": {
       "2024-09-03": 333,
       "2024-09-02": 1440,
@@ -759,8 +758,7 @@
       "2023-09-11": 1440,
       "2023-09-10": 1440,
       "2023-09-09": 1440,
-      "2023-09-08": 1440,
-      "2023-09-07": 1440
+      "2023-09-08": 1440
     }
   },
   {
@@ -769,16 +767,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/wickepedia.org.ico",
     "slug": "wiki-apex",
     "status": "up",
-    "uptime": "14.54%",
+    "uptime": "14.61%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "26.06%",
-    "uptimeMonth": "4.09%",
-    "uptimeYear": "0.23%",
-    "time": 153,
-    "timeDay": 891,
-    "timeWeek": 369,
-    "timeMonth": 217,
-    "timeYear": 154,
+    "uptimeWeek": "40.34%",
+    "uptimeMonth": "7.38%",
+    "uptimeYear": "0.50%",
+    "time": 155,
+    "timeDay": 916,
+    "timeWeek": 473,
+    "timeMonth": 241,
+    "timeYear": 156,
     "dailyMinutesDown": {
       "2024-09-03": 333,
       "2024-09-02": 1440,
@@ -1141,8 +1139,7 @@
       "2023-09-11": 1440,
       "2023-09-10": 1440,
       "2023-09-09": 1440,
-      "2023-09-08": 1440,
-      "2023-09-07": 1440
+      "2023-09-08": 1440
     }
   },
   {
@@ -1151,16 +1148,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/wickepedia.org.ico",
     "slug": "short-url",
     "status": "up",
-    "uptime": "14.53%",
+    "uptime": "14.61%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "26.06%",
-    "uptimeMonth": "4.09%",
-    "uptimeYear": "0.23%",
-    "time": 15,
-    "timeDay": 703,
-    "timeWeek": 193,
-    "timeMonth": 53,
-    "timeYear": 15,
+    "uptimeWeek": "40.35%",
+    "uptimeMonth": "7.38%",
+    "uptimeYear": "0.50%",
+    "time": 17,
+    "timeDay": 686,
+    "timeWeek": 289,
+    "timeMonth": 75,
+    "timeYear": 17,
     "dailyMinutesDown": {
       "2024-09-03": 333,
       "2024-09-02": 1440,
@@ -1523,8 +1520,7 @@
       "2023-09-11": 1440,
       "2023-09-10": 1440,
       "2023-09-09": 1440,
-      "2023-09-08": 1440,
-      "2023-09-07": 1440
+      "2023-09-08": 1440
     }
   },
   {
@@ -1533,18 +1529,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/de.wickepedia.org.ico",
     "slug": "rest-api",
     "status": "down",
-    "uptime": "14.37%",
+    "uptime": "14.36%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 14,
-    "timeDay": 497,
-    "timeWeek": 138,
-    "timeMonth": 41,
-    "timeYear": 14,
+    "time": 15,
+    "timeDay": 522,
+    "timeWeek": 211,
+    "timeMonth": 57,
+    "timeYear": 15,
     "dailyMinutesDown": {
-      "2024-09-05": 81,
+      "2024-09-06": 80,
+      "2024-09-05": 1440,
       "2024-09-04": 1440,
       "2024-09-03": 1440,
       "2024-09-02": 1440,
@@ -1907,8 +1904,7 @@
       "2023-09-11": 1440,
       "2023-09-10": 1440,
       "2023-09-09": 1440,
-      "2023-09-08": 1440,
-      "2023-09-07": 1440
+      "2023-09-08": 1440
     }
   },
   {
@@ -1917,15 +1913,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/de.wickepedia.org.ico",
     "slug": "parsoid",
     "status": "up",
-    "uptime": "14.00%",
+    "uptime": "14.08%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "26.07%",
-    "uptimeMonth": "4.09%",
-    "uptimeYear": "0.23%",
+    "uptimeWeek": "40.35%",
+    "uptimeMonth": "7.38%",
+    "uptimeYear": "0.50%",
     "time": 13,
-    "timeDay": 218,
-    "timeWeek": 66,
-    "timeMonth": 24,
+    "timeDay": 223,
+    "timeWeek": 96,
+    "timeMonth": 31,
     "timeYear": 13,
     "dailyMinutesDown": {
       "2024-09-03": 333,
@@ -2289,8 +2285,7 @@
       "2023-09-11": 1440,
       "2023-09-10": 1440,
       "2023-09-09": 1440,
-      "2023-09-08": 1440,
-      "2023-09-07": 1440
+      "2023-09-08": 1440
     }
   }
 ]
