@@ -1,7 +1,7 @@
 url: https://de.wickepedia.org/api.php?action=visualeditor&format=json&paction=parse&page=Main_Page
 status: up
 code: 200
-responseTime: 230
-lastUpdated: 2024-11-25T10:14:32.997Z
+responseTime: 179
+lastUpdated: 2024-11-25T11:11:08.648Z
 startTime: 2021-08-24T21:30:23.000Z
 generator: Upptime <https://github.com/upptime/upptime>
