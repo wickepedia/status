@@ -9,12 +9,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.85%",
-    "uptimeYear": "68.60%",
-    "time": 853,
-    "timeDay": 1229,
-    "timeWeek": 1320,
-    "timeMonth": 1325,
-    "timeYear": 865,
+    "uptimeYear": "68.65%",
+    "time": 854,
+    "timeDay": 1234,
+    "timeWeek": 1319,
+    "timeMonth": 1324,
+    "timeYear": 866,
     "dailyMinutesDown": {
       "2025-05-03": 50,
       "2025-04-30": 17,
@@ -139,8 +139,7 @@
       "2024-05-16": 1440,
       "2024-05-15": 1440,
       "2024-05-14": 1440,
-      "2024-05-13": 1440,
-      "2024-05-12": 1440
+      "2024-05-13": 1440
     }
   },
   {
@@ -149,14 +148,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/en.wickepedia.org.ico",
     "slug": "wiki-en",
     "status": "up",
-    "uptime": "30.20%",
+    "uptime": "30.21%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.85%",
-    "uptimeYear": "68.61%",
-    "time": 824,
-    "timeDay": 1192,
-    "timeWeek": 1287,
+    "uptimeYear": "68.66%",
+    "time": 825,
+    "timeDay": 1191,
+    "timeWeek": 1285,
     "timeMonth": 1293,
     "timeYear": 836,
     "dailyMinutesDown": {
@@ -281,8 +280,7 @@
       "2024-05-16": 1440,
       "2024-05-15": 1440,
       "2024-05-14": 1440,
-      "2024-05-13": 1440,
-      "2024-05-12": 1440
+      "2024-05-13": 1440
     }
   },
   {
@@ -291,18 +289,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/wickepedia.org.ico",
     "slug": "wiki-apex",
     "status": "up",
-    "uptime": "30.20%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "68.62%",
-    "time": 817,
-    "timeDay": 1194,
-    "timeWeek": 1291,
+    "uptime": "30.21%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "68.67%",
+    "time": 818,
+    "timeDay": 1185,
+    "timeWeek": 1290,
     "timeMonth": 1310,
     "timeYear": 829,
     "dailyMinutesDown": {
-      "2025-05-11": 10,
       "2025-05-03": 47,
       "2025-02-22": 46,
       "2025-01-03": 15,
@@ -422,8 +419,7 @@
       "2024-05-16": 1440,
       "2024-05-15": 1440,
       "2024-05-14": 1440,
-      "2024-05-13": 1440,
-      "2024-05-12": 1440
+      "2024-05-13": 1440
     }
   },
   {
@@ -432,16 +428,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/wickepedia.org.ico",
     "slug": "short-url",
     "status": "up",
-    "uptime": "30.20%",
+    "uptime": "30.21%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
-    "uptimeYear": "68.62%",
+    "uptimeYear": "68.67%",
     "time": 632,
-    "timeDay": 1044,
+    "timeDay": 1047,
     "timeWeek": 1136,
     "timeMonth": 1140,
-    "timeYear": 643,
+    "timeYear": 644,
     "dailyMinutesDown": {
       "2025-05-03": 45,
       "2025-02-22": 45,
@@ -562,8 +558,7 @@
       "2024-05-16": 1440,
       "2024-05-15": 1440,
       "2024-05-14": 1440,
-      "2024-05-13": 1440,
-      "2024-05-12": 1440
+      "2024-05-13": 1440
     }
   },
   {
@@ -578,12 +573,13 @@
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 400,
-    "timeDay": 578,
+    "timeDay": 580,
     "timeWeek": 645,
     "timeMonth": 655,
     "timeYear": 408,
     "dailyMinutesDown": {
-      "2025-05-11": 1320,
+      "2025-05-12": 109,
+      "2025-05-11": 1440,
       "2025-05-10": 1440,
       "2025-05-09": 1440,
       "2025-05-08": 1440,
@@ -946,8 +942,7 @@
       "2024-05-16": 1440,
       "2024-05-15": 1440,
       "2024-05-14": 1440,
-      "2024-05-13": 1440,
-      "2024-05-12": 1440
+      "2024-05-13": 1440
     }
   },
   {
@@ -956,13 +951,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/de.wickepedia.org.ico",
     "slug": "parsoid",
     "status": "up",
-    "uptime": "29.77%",
+    "uptime": "29.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
-    "uptimeYear": "68.63%",
+    "uptimeYear": "68.67%",
     "time": 144,
-    "timeDay": 191,
+    "timeDay": 193,
     "timeWeek": 207,
     "timeMonth": 209,
     "timeYear": 147,
@@ -1086,8 +1081,7 @@
       "2024-05-16": 1440,
       "2024-05-15": 1440,
       "2024-05-14": 1440,
-      "2024-05-13": 1440,
-      "2024-05-12": 1440
+      "2024-05-13": 1440
     }
   }
 ]
