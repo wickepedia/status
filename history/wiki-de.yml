@@ -1,7 +1,7 @@
 url: https://de.wickepedia.org
-status: up
-code: 200
-responseTime: 1491
-lastUpdated: 2025-05-25T03:15:59.762Z
+status: down
+code: 502
+responseTime: 783
+lastUpdated: 2025-05-25T04:20:56.643Z
 startTime: 2021-08-24T21:11:04.000Z
 generator: Upptime <https://github.com/upptime/upptime>
